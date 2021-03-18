@@ -5,12 +5,13 @@ Build the tic-tac-toe game in React. It can alternate placing “X”s and “O�
 
 ***
 ### Local Development Environment 
-- Execute config.sh
-- Download the file **index.css** into the *src/* folder
-- Download the file **index.js** into the *src/* folder
-- Run npm start in the *my-app/* folder and open http://localhost:3000 in the browser
+- Execute `config.sh`
+- Download the file **index.css** into the **src/** folder
+- Download the file **index.js** into the **src/** folder
+- Run `npm start` in the **my-app/** folder and open http://localhost:3000 in the browser
 
 ### Overview
+
 
 ### Completing the Game
 
