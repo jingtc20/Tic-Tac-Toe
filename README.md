@@ -4,15 +4,16 @@ Build the tic-tac-toe game in React. It can alternate placing “X”s and “O�
 **Offical link**: [**tutorial**](https://reactjs.org/tutorial/tutorial.html#completing-the-game)
 
 ***
-### Local Development Environment 
+## Local Development Environment 
 - Execute `config.sh`
 - Download the file **index.css** into the **src/** folder
 - Download the file **index.js** into the **src/** folder
 - Run `npm start` in the **my-app/** folder and open http://localhost:3000 in the browser
 
-### Overview
 
+## Completing the Game 
 
-### Completing the Game
-
-### Adding Time Travel
+- Let you play tic-tac-toe
+- Indicate when a player has won the game
+- Store a game’s history as a game progresses
+- Allow players to review a game’s history and see previous versions of a game’s board.
