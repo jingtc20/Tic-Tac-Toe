@@ -22,7 +22,7 @@ Build the tic-tac-toe game in React. It can alternate placing “X”s and “O�
 
 ## Example
 - when a player wins the game, it shows:
-<img src='winner.png' width='250'/>
+<img src='pic/winner.png' width='250'/>
 
 - when the result is a draw, it shows:
-<img src='draw.png' width='250'/>
+<img src='pic/draw.png' width='250'/>
