@@ -15,7 +15,7 @@ Build the tic-tac-toe game in React. It can alternate placing “X”s and “O�
 - Let you play tic-tac-toe
 - Indicate the result of the winner or a draw
 - Store a game’s history and display the location for each move
-- Allow players to review a game’s history 
+- Review a game’s history and move to previous steps 
 - When someone wins, highlight the squares that caused the win.
 - Restart the game automatically
 
