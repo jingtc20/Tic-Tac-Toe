@@ -11,9 +11,10 @@ Build the tic-tac-toe game in React. It can alternate placing “X”s and “O�
 - Run `npm start` in the **my-app/** folder and open http://localhost:3000 in the browser
 
 
-## Completing the Game 
-
+## Completing the Game
 - Let you play tic-tac-toe
-- Indicate when a player has won the game
-- Store a game’s history as a game progresses
-- Allow players to review a game’s history and see previous versions of a game’s board.
+- Indicate the winner or a draw
+- Store a game’s history as a game progresses and display the location for each move
+- Allow players to review a game’s history and see previous versions of a game’s board
+- When someone wins, highlight the three squares that caused the win.
+- Restart the game automatically
